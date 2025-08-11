@@ -1,7 +1,6 @@
 {
   "name": "@acme/animal",
-  "version": "0.0.1",
-  "private": true,
+  "version": "2.0.0",
   "type": "module",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
